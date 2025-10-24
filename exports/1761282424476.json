@@ -1,0 +1,15 @@
+{
+  "timestamp": 1761282424476,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "eco",
+  "files": [
+    {
+      "path": "/mnt/data/eco/backend/package.json",
+      "type": "text",
+      "size": 1421,
+      "dependencies": true
+    }
+  ]
+}
